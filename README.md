@@ -1,4 +1,4 @@
-# aws_rekonition_aws
+# aws_rekognition_car_images
 Java application which will recognize any car images using AWS Rekognition service and any text associated with the images
 
 The application is implemented on 2 AWS EC2 instances. 
